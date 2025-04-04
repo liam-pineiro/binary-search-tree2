@@ -1,1 +1,1 @@
-# binary-search-tree2
+similar to other binary search tree with additional functionality
